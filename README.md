@@ -6,7 +6,7 @@ DOMAIN:MACHINE LEARNING
 DURATION: 8 WEEKS 
 MENTOR NEELA SANTOSH
 
-# Iris Flower Classification using Decision Trees
+
 
 ## Project Overview
 This project provides a comprehensive implementation and analysis of a Decision Tree Classifier applied to the famous Iris dataset. Decision Trees are a popular supervised learning method used for classification and regression. In this repository, we demonstrate how to build, visualize, and evaluate a Decision Tree model to classify iris flowers into three species based on their morphological measurements. 
