@@ -94,4 +94,5 @@ The model consistently achieves an accuracy exceeding **94%** on the test set. K
 
 ---
 *Created as part of the Codtech Task 1 - Machine Learning Internship.*
+output:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/19520466-50e6-490a-9c60-c9297d0c9d47" />
 
